@@ -1,4 +1,4 @@
-# Infinite-Procedural-Generation-Python
+# Infinite Procedural Generation Python
 Generates all the possible variants
 
 
