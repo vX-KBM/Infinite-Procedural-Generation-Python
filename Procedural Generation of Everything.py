@@ -13,7 +13,6 @@ class counters:
     def __init__(self, name, v):
         self.name = name
         self.v = v
-        pass
     def sum(self):
         self.v += 1
         if self.v == len(en):
