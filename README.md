@@ -1,5 +1,6 @@
 # Infinite Procedural Generation Python
-Generates all the possible variants
+Generates all the possible variants and saves them to txt files.
+Splits files each 1.000.000 lines.
 
 
 Dependencies: sty (pip install sty)
