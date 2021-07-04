@@ -3,3 +3,6 @@ Generates all the possible variants
 
 
 Dependencies: sty (pip install sty)
+
+
+Just Download the ".py" file.
